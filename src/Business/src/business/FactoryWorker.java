@@ -1,4 +1,4 @@
-package Business.business;
+package business;
 
 public class FactoryWorker {
 
