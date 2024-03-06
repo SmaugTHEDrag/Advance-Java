@@ -5,7 +5,7 @@ public class Address {
 	private String address2;
 	private String city;
 	private String state;
-	public Address(String address1, String address2, String city, String state) {
+	public Address() {
 		super();
 		this.address1 = address1;
 		this.address2 = address2;
